@@ -254,7 +254,7 @@ dist
 **Mohammad Mehfooz**
 B.Tech — Chandigarh University
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--mohammadmehfooz9755-181717?style=flat&logo=github)](https://github.com/your-mohammadmehfooz9755)
+[![GitHub](https://img.shields.io/badge/GitHub-your--mohammadmehfooz9755-181717?style=flat&logo=github)](https://github.com/mohammadmehfooz9755)
 
 ---
 
